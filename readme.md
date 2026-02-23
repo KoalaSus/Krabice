@@ -1,2 +1,3 @@
 # Krabice
-Návrhy, 3D modely...
+
+V tomto repositáři jsou soubory ohledně krabice.
